@@ -70,6 +70,7 @@ $ yarn
 
 # to start the application on port 3000
 $ yarn dev
+````
 
 Access `http://localhost:3000/`.
 
