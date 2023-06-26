@@ -55,7 +55,7 @@ Developed with ReactJS and TypeScript.
 
 ## 🏁 Starting the project:
 
-Clone the project: `git clone https://github.com/LiajuX/Ignite-ReactJS-ToDo`
+Clone the project: `git clone https://github.com/LiajuX/Ignite-2.0-ReactJS-Feed`
 
 ❗ **NOTE:** If you don't have yarn installed, use npm instead.
 
